@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Workport</string>
+    <string name="splash_1_text">Drive With Workport</string>
+    <string name="splash_2_text">Request A Ride</string>
+    <string name="splash_3_text">Affordable Rides</string>
+    <string name="splash_4_text">Fare Estimate</string>
+    <string name="splash_skip">Skip</string>
+    <string name="search_hint">Search…</string>
+    <string name="no_result_found">Results not found</string>
+    <string name="select_country">Select a country</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Prabheesh Kumar</string>
+    <string name="nav_header_sub_title">View Profile</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_ride_history">Ride History</string>
+    <string name="menu_fare_estimator">Fare Estimator</string>
+    <string name="menu_payment">Payment</string>
+    <string name="menu_scheduled_hours">Scheduled Hours</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="api_key">AIzaSyBIwvnH_ljtsgaOAHjPx2haa--e2ymFHxI</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="auto_complete_text">Autocomplete textview with custom adapter.</string>
+    <string name="error">Google Api key is missing.</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="update_information">Update/nInformation</string>
+    <string name="first_name">FIRST NAME</string>
+    <string name="last_name">LAST NAME</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="verified">Verified</string>
+    <string name="email">EMAIL</string>
+    <string name="save_information">SAVE INFORMATION</string>
+    <string name="card_text">Please Enter your Card Number, Expiry Date and reverse 3 Digit Security Code</string>
+
+    <string-array name="ride_type">
+        <item>Select Ride Type</item>
+        <item>Ride to Work</item>
+        <item>Ride from work</item>
+        <item>Other</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_all_ride_history"><b>No ride yet</b>\nYou do not have any ride for us to\nshow yet. Take you your first ride today!</string>
+    <string name="no_past_ride_history"><b>No ride yet</b>\nYou do not have any completed ride for\nus to show yet. Take you your first ride today!</string>
+    <string name="no_upcoming_ride_history"><b>No ride yet</b>\nYou do not have any Upcoming ride for\nus to show yet. Take you your first ride today!</string>
+
+    <string name="fcm_message">Notification</string>
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="notification_through_firebase">Notification Through Firebase</string>
+</resources>
